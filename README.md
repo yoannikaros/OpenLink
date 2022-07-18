@@ -1,6 +1,6 @@
-# viata
+# OpenLink
 
-A new Flutter project.
+this is open link in app for tablet 8 inc
 
 ## Getting Started
 
